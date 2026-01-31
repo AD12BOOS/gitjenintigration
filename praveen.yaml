@@ -45,7 +45,7 @@
         url: "http://localhost:80"   
        register: webres
 
-     - name: checkig webpage result
+     - name: checkig webpage resultghvghvg
        debug:
          msg: "{{ webres }}"
 
