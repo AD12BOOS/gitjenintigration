@@ -45,10 +45,8 @@
         url: "http://localhost:80"   
        register: webres
 
-     - name: checking webpage result
+     - name: checkig webpage result
        debug:
          msg: "{{ webres }}"
 
-     - name: check
-       debug:
-         msg: "adash"
+ 
