@@ -48,3 +48,7 @@
      - name: checking webpage result
        debug:
          msg: "{{ webres }}"
+
+     - name: check
+       debug:
+         msg: "ad"
