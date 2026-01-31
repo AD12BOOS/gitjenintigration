@@ -24,7 +24,7 @@
        when:
          - pou == "0"
 
-     - name: package httpd installed
+     - name: package httpd instled
        debug:
          msg: "Package httpd not installed"    
        when:
