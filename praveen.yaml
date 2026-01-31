@@ -51,4 +51,4 @@
 
      - name: check
        debug:
-         msg: "ad"
+         msg: "ads"
